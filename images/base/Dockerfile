@@ -1,4 +1,4 @@
-FROM ubuntu:21.04
+FROM ubuntu:rolling
 
 ENV DEBIAN_FRONTEND noninteractive
 RUN \
